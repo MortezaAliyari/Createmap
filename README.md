@@ -32,3 +32,4 @@ also you can save the created map with below service command from map server.
 ```
 rosrun map_server map_saver -f ~/my_map
 ```
+![Map](https://github.com/MortezaAliyari/Create-2D-map-Lidar-C-/blob/main/img/Screenshot%20from%202023-02-06%2011-47-54.png)
